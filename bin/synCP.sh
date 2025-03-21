@@ -13,7 +13,7 @@
 #
 # Usage: ./script_name.sh <pdb_id> or <protein_file_name>
 # Example: ./script_name.sh 2gtg
-# Example: ./script_name.sh d1qzya1 (if d1qzya1.pdb exists in data directory)
+# Example: ./script_name.sh d1qzya1 (if d1qzya1.pdb exists in data directory and does not have END or TER lines)
 ##############################################################################
 
 # Input validation
